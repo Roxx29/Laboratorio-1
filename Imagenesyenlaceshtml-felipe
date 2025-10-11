@@ -5,3 +5,7 @@
 <img> inserta una imagen, con src (ruta del archivo) y alt (texto alternativo).
 
 <a href=""> crea un hipervínculo que lleva a otra página o recurso.X
+<footer>
+    <p>© 2025 Felipe - Laboratorio 1</p>
+</footer>
+</body>
